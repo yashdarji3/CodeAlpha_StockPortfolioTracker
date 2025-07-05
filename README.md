@@ -43,7 +43,7 @@ A command-line Python application for tracking stock portfolios with real-time d
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/HITMAN949/codealpha_tasks/tree/cd364f376b094e7fdaa7fc8dd88fd872ec196162/Simple%20Stock%20Porfolio%20Tracker
+git clone https://github.com/yashdarji3/CodeAlpha_StockPortfolioTracker/tree/cd364f376b094e7fdaa7fc8dd88fd872ec196162/Simple%20Stock%20Porfolio%20Tracker
 cd stock-portfolio-tracker
 ```
 ### 2. Set up virtual environment (recommended)
