@@ -4,7 +4,6 @@
 A command-line Python application for tracking stock portfolios with real-time data from Yahoo Finance and Alpha Vantage.
 
 ![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ## 📋 Table of Contents
 - [Features](#-features)
@@ -13,7 +12,6 @@ A command-line Python application for tracking stock portfolios with real-time d
 - [Usage](#-usage)
 - [Project Structure](#-project-structure)
 - [Troubleshooting](#-troubleshooting)
-- [License](#-license)
 
 ## ✨ Features
 
