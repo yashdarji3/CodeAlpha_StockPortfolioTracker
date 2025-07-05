@@ -1,0 +1,7 @@
+bcrypt==4.0.1
+mysql-connector-python==8.0.33
+yfinance==0.2.18
+requests==2.31.0
+pandas==2.0.3
+matplotlib==3.7.2
+python-dotenv==1.0.0
